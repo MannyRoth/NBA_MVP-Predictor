@@ -28,7 +28,7 @@ as my model also showed, Jokic won the award.
 
 * How to create a predictive model
 * Scraping Data
-* Index an API and leverage on documentation 
+* Index an API and leveraging on documentation 
 * Jupyter Notebook
 
 My greatest lesson learned from this project is how to use data and find to articulate
