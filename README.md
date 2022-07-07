@@ -20,3 +20,19 @@ So I had already planned on using Data from Twitters API to help in predicting t
 The Data alone predicted Giannis winning but after adding in the amount of Tweets the had both #NBAMVP 
 and the players name it showed that Nikola Jokic was much more favored by the public as a whole and in the end, 
 as my model also showed, Jokic won the award.
+
+
+
+
+## Lessons Learned
+
+* How to create a predictive model
+* Scraping Data
+* Index an API and leverage on documentation 
+* Jupyter Notebook
+
+My greatest lesson learned from this project is how to use data and find to articulate
+and test an idea that I have had for a long time. This project started my journey into this field
+and through it I can begin to see the lense Software Engineering can give you to show people
+how to see the world in a more accurate and simple way. 
+
