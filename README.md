@@ -1,4 +1,4 @@
-# 2021 Predictin NBA MVP Predictor using Twitter API
+# 2021 NBA MVP Predictor using Twitter API
 
 When it comes to any award given based on a group of voters, popularity may matter more than 
 their aptitude for said award. In this model I wanted to compare stastical aptitude to popularity for which 
